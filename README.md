@@ -1,0 +1,1 @@
+The aim of this analysis is to understand the hourly distribution of Uber requests at different pickup points (Airport and City) and identify peak demand times. By examining this data, we can optimize driver allocation to meet the fluctuating demand effectively.
